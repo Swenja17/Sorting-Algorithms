@@ -1,0 +1,9 @@
+BubbleSort(Arr, size) {
+    for i = 0 to size-2 {
+        for j = 0 to size-2 {
+            if Arr[j] > Arr[j+1] {
+                swap(Arr[j], Arr[j+1])
+            }
+        }
+    }
+}
