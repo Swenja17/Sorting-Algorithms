@@ -5,7 +5,8 @@
 
   Nutze hierfür die Datei BubbleSort.py
 
-  
+### Infos
+
 ![BubbleSort Step 1](https://github.com/masa-gymmich/Sorting-Algorithms/blob/main/BubbleSort1.png)
 
 ![BubbleSort Step 2](https://github.com/masa-gymmich/Sorting-Algorithms/blob/main/BubbleSort2.png)
