@@ -38,7 +38,10 @@ Nutze hierfür die Datei InsertionSort.py
 
 ## Quick Sort
 Implementiere den Quick-Sort in Python unter Verwendung einer Funktion  `def quick-sort(to_sort):`.
-
+Als optionale Hilfestellung ist auf der Seite von Inf-Schule ganz unten (s. Link in den Infos) ein Bespiel-Code angegeben.
 Nutze hierfür die Datei QuickSort.py
 
 ### Infos
+* [Quick-Sort auf Inf-Schule](https://www.inf-schule.de/algorithmen/standardalgorithmen/sortieren/sortierverfahren/quicksort)
+* [Quick-Sort auf Wikipedia](https://de.wikipedia.org/wiki/Quicksort)
+* [Video zu Quicksort](https://wgmail-my.sharepoint.com/:v:/g/personal/marco_savoca_wgmail_de/EVXyyOV3-MxHuLaqXkyXGFEBz8eOSLIwaVZOz7XCSiePsg?e=ZE4WC4)
