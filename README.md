@@ -32,7 +32,7 @@ Implementiere den Insertion-Sort in Python unter Verwendung einer Funktion  `def
 
 Nutze hierfür die Datei InsertionSort.py
 * [Insertion-Sort auf Inf-Schule](https://www.inf-schule.de/algorithmen/standardalgorithmen/sortieren/sortierverfahren/insertionsort)
-* [Video zum Insertion-Sort]()
+* [Video zum Insertion-Sort](https://wgmail-my.sharepoint.com/:v:/g/personal/marco_savoca_wgmail_de/EQpDmA31T1lPm1OLylLsO1sBhBn-8EArdnjUGnDBkAAMQg?e=3pe0NM)
 
 ## Quick Sort
 Implementiere den Quick-Sort in Python unter Verwendung einer Funktion  `def quick-sort(to_sort):`.
