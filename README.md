@@ -31,6 +31,8 @@ Nutze hierfür die Datei SelectionSort.py
 Implementiere den Insertion-Sort in Python unter Verwendung einer Funktion  `def insertion-sort(to_sort):`.
 
 Nutze hierfür die Datei InsertionSort.py
+
+### Infos
 * [Insertion-Sort auf Inf-Schule](https://www.inf-schule.de/algorithmen/standardalgorithmen/sortieren/sortierverfahren/insertionsort)
 * [Video zum Insertion-Sort](https://wgmail-my.sharepoint.com/:v:/g/personal/marco_savoca_wgmail_de/EQpDmA31T1lPm1OLylLsO1sBhBn-8EArdnjUGnDBkAAMQg?e=3pe0NM)
 
@@ -38,3 +40,5 @@ Nutze hierfür die Datei InsertionSort.py
 Implementiere den Quick-Sort in Python unter Verwendung einer Funktion  `def quick-sort(to_sort):`.
 
 Nutze hierfür die Datei QuickSort.py
+
+### Infos
