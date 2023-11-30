@@ -1,5 +1,6 @@
 # Sortieralgorithmen
-* Bubble-Sort
+
+## Bubble-Sort
   
   Implementiere den Bubble-Sort-Algorithmus in Python unter Verwendung einer Funktion `def bubble-sort(to_sort):`.
 
@@ -15,3 +16,13 @@
 ![BubbleSort Step 2](https://github.com/masa-gymmich/Sorting-Algorithms/blob/main/BubbleSort2.png)
 
 ![BubbleSort Step 1](https://github.com/masa-gymmich/Sorting-Algorithms/blob/main/BubbleSort3.png)
+
+## Selection Sort
+Implementiere den Selection-Sort in Python unter Verwendung einer Funktion  `def selection-sort(to_sort):`.
+
+Nutze hierfür die Datei SelectionSort.py
+
+### Infos
+* [Selection-Sort auf Inf-Schule](https://www.inf-schule.de/algorithmen/standardalgorithmen/sortieren/sortierverfahren/selectionsort)
+* [Selection-Sort auf Wikipedia](https://de.wikipedia.org/wiki/Selectionsort)
+* [Video zum Selection-Sort](https://wgmail-my.sharepoint.com/:v:/g/personal/marco_savoca_wgmail_de/ER-cczkmIU5JuYMHiLfw8NkBwikdQtlmC3xhiX-27UMbfQ?e=0VzoDc)
