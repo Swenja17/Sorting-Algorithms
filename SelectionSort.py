@@ -7,3 +7,8 @@ def selection_sort(A):
             if A[min_idx] > A[j]:
                 min_idx = j
         swap(A, i, min_idx)
+    return A
+
+A = [17, 6, 8, 26, 9, 7]
+
+print(selection_sort(A))
